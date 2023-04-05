@@ -1,0 +1,2 @@
+# Favify
+Created with CodeSandbox
